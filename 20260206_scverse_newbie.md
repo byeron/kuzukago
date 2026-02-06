@@ -2,6 +2,10 @@
 *scanpy* は scRNA-seq データを取り扱うためのツールである。
 scRNA-seq データの処理は統計解析用プログラミング言語である R による取り扱いがメジャーであるが、近年は Python 用のライブラリ群である [scverse](https://scverse.org/packages/) による解析も多く報告されている。
 
+## Pythonを使ったシングルセル解析の概要をつかむための資料
+- https://www.youtube.com/watch?v=cqYogmV3YCs
+- 
+
 ## scverse
 3つのデータ構造（*anndata*, *mudata*, *spatialdata*）とそれらを取り扱う解析用フレームワーク群の総称である。
 発現変動遺伝子解析や次元圧縮、クラスタリングなどの基本的な発現量解析から、マルチモーダルデータ解析、空間解析などのフレームワークが提供されている。
