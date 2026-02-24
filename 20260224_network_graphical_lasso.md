@@ -7,4 +7,11 @@
 そこで逆行列を推定する別の手法が必要である。
 
 ## Graphical Lasso
+
 逆行列の推定方法。上記の問題を解決する。
+
+## リンク
+- https://developer.mamezou-tech.com/blogs/2022/07/08/partial-correlation/
+- https://data-science.tokyo/ed/edj1-2-3-1-1.html
+- https://manabitimes.jp/math/1400
+- https://bioinforest.com/graphical-lasso/
